@@ -14,3 +14,28 @@ The React Compiler is not enabled on this template because of its impact on dev 
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+# 🚀 AuthForm – Sleek React Login & Register Component
+
+Say goodbye to boring login forms! **AuthForm** is a modern, fully responsive **Login/Register component** built with React, designed for a smooth, professional, and visually appealing user experience. Perfectly centered, beautifully styled, and user-friendly – your users will love it! 😎
+
+---
+
+## ✨ Features
+
+- **Login & Register Toggle:** Effortlessly switch between Login and Register views with a single click.  
+- **Role Selection:** Register users can select their role (`Admin`, `Fleet Manager`, `Driver`, `Customer`).  
+- **Pixel-Perfect Design:** Clean layout, perfect spacing, and rounded inputs & buttons.  
+- **Responsive & Mobile-Friendly:** Looks great on any screen size – desktop, tablet, or phone.  
+- **Modern Colors & Gradients:** Eye-catching gradient background, purple buttons, and crisp white cards.  
+- **Built-in Validation:** Prevents empty submissions for a smooth user experience.  
+- **Plug & Play:** Easily drop this component into any React project.  
+
+---
+
+## 🚀 Getting Started
+
+1. Make sure you have a React project set up.
+2. Copy `AuthForm.jsx` into your project:
+
+```bash
+src/components/AuthForm.jsx
